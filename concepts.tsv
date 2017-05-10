@@ -1,0 +1,756 @@
+NUMBER	ENGLISH	SPANISH	FRENCH	PORTUGUESE	SEMANTIC_FIELD
+1	achiote	achiote	roucou	urucum	plant
+2	afternoon	tarde	après-midi	tarde	temporal adv
+3	agouti	añuje, picure	agouti	cutia	animal
+4	ají, pepper	ají, pimiento, chile	piment	pimenta	plant
+5	all	todos	tout	tudo	quantifier
+6	animal	animal	animal	animal	animal
+7	ankle	tobillo	cheville	tornozelo	body part
+8	ant, general	hormiga	fourmi	formiga	insect
+9	anteater	oso hormiguero	fourmilier	tamanduá	animal
+10	aquatic snail (edible)	caracol	limace, escargot	caracol	mollusk
+11	arm	brazo	bras	braço	body part
+12	armadillo (fish), armored catfish	armadillo (pez), carachama	tatou (poisson)	tatu (peixes), cascudo	fish
+13	armadillo, general	armadillo, carachupa	tatou	tatu	animal
+14	arrive	llegar	arriver	chegar	verb.mot
+15	arrow	flecha	flèche	seta, flecha	material culture
+16	ashes	ceniza	cendres	cinzas	material culture
+17	ashes, dust	ceniza, polvo	cendres, poussière	poeira, pó	material culture
+18	ask (question)	preguntar	poser	perguntar	verb.speak
+19	ask (request)	pedir	demander	pedir	verb.speak
+20	at, to (ben or loc)	a, en, hacia	à, en	ás, em	ad.loc/ben.loc
+21	avocado	palta	avocat	abacate	plant.edible
+22	axe	hacha	hache	machado	material culture
+23	back	espalda	dos	costas	body part
+24	bad	malo	mauvais	ruim	adv.qual
+25	bamboo	guadua, bambú	bambou	bambu	plant
+26	Banisteriopsis caapi	ayahuasca, yagé, yajé, caapi	Banisteriopsis caapi	caapi, cipó	plant.med
+27	bark (of tree)	corteza, carapa	écorce	casca	plant
+28	basket	cesto, canasta	panier	cesto	material culture
+29	bat	murcielago	chauve-souris	morcego	animal
+30	bat (vampire)	murcielago (vampiro)	chauve-souris (vampire)	vampiro	animal
+31	bathe	bañarse	baigner	banhar	verb.refl
+32	be angry	rabiar, enojarse	se fâcher	raiva	verb.emot
+33	be bitter	amargo	amer	amargo	verb.stat
+34	be black	negro	noir	preto	verb.stat
+35	be blue	azul	bleu	azul	verb.stat
+36	be born	nacer	naître	nascer	verb
+37	be dark, be night	oscuro	dans le noir, faire nuit, sombre	escuro	verb.stat
+38	be full.VI	llenar	remplir	encher	verb.stat
+39	be hanging	estar colgado	suspendre, être pendu	pendurado	verb.stat
+40	be happy	estar felíz	heureux	feliz	verb.emot
+41	be hot	caliente	chaud	quente	verb.stat
+42	be hungry	tener hambre	avoir faim	estar com fome	verb.stat
+43	be in inclined position	agacharse	être penché	agachar-se	verb.stat
+44	be intoxicated, hallucinate	(estar) mareado, borracho, ebrio	être ivre, halluciner	bêbado	verb.stat
+45	be lost	perderse, perdido	se perdre, perdu	perdido	verb.stat
+46	be lying (in hammock)	acostarse en hamaca	se coucher dans un hamac	deitar-se	verb.stat
+47	be lying (on surface)	acostarse	se coucher, s'allonger	deitar-se	verb.stat
+48	be odorous (fragrant)	estar oloroso, emanar olor	être odorant, parfumé	cheiroso	verb.stat
+49	be pregnant	estar embarazada, preñada, encinta	être enceinte	grávida	verb.stat
+50	be ripe	(estar) maduro	être mûr	maduro	verb.stat
+51	be sad	tener pena	être triste	triste	verb.stat
+52	be sharp (of edge)	tener filo, estar filudo	être aiguisé, tranchant, effilé	afiado	verb.stat
+53	be sharp (of point)	agudo, cortante, punzante	être aiguisé, effilé, pointu	agudo, apontado	verb.stat
+54	be shiny	brillar	briller	brilhar	verb.stat
+55	be sick	enfermarse	être malade	enfermar-se, ficar doente (humano)	verb.stat
+56	be sick (non-human)	enfermarse (no humano)	être malade (non-humaine)	enfermar-se, ficar doente (não humano)	verb.stat
+57	be small	pequeño	petit	pequeno	verb.stat
+58	be smooth	liso	lisse	liso	verb.stat
+59	be sour	agrio	aigre	azedo	verb.stat
+60	be standing up	estar de pie, pararse	être debout	levantar-se	verb.stat
+61	be stinky, issue a bad smell	apestar (heder)	fêtide, malodorant, rance	pestear, feder	verb.stat
+62	be strong, powerful	tener fuerza	être fort, puissant	forte, podoroso, tem força	verb.stat
+63	be sweet	dulce	doux, sucré	doce	verb.stat
+64	be tasty	sabroso	savoureux, goûteux	saboroso, gostoso	verb.stat
+65	be thirsty	tener sed	avoir soif	estar com sede	verb.stat
+66	be tired	(estar) cansado	être fatigué	cansado, exausto	verb.stat
+67	be used to	acostumbrarse	s'habituer, avoir l'habitude	acostumar-se	verb.stat
+68	be visible	ser visible, aparecer	être visible	aparecer	verb.stat
+69	be warm, hot, of weather or obj	caliente	chaud	quente	verb.stat
+70	be weak	débil	faible	fraco, frágil	verb.stat
+71	be wet	mojado	mouillê	molhado	verb.stat
+72	be white	blanco	blanc	branco	verb.stat
+73	be wide	ancho	large	largo	verb.stat
+74	be yellow	amarillo	jaune	amarelo	verb.stat
+75	bead (N)	chaquira	perle	conta miçanga	material culture
+76	beard	barba	barbe	barba	body part
+77	become skinny (of person/object), become smoked (of food)	enflaquecerse, estar ahumado	maigrir	enfraquecerse, estar afumado	verb.stat
+78	bee	abeja	abeille	abelha	insect
+79	beetle	escarabajo	scarabée	besouro, escaravelho	insect
+80	belch, burp	eructar	roter	arrotar	verb.act
+81	believe	creer	croire	crer	verb.stat
+82	belly	barriga	ventre	barriga	body part
+83	belly button	ombligo	nombril	umbigo	body part
+84	bent	doblado, tuerto	plié, courbé, tordu	dobrado, encurvado	verb.stat
+85	big	grande	grand	grand	verb.stat
+86	bird, general	pajaro, ave	oiseau	pássaro	bird
+87	bite	morder	mordre	morder	verb.act
+88	biting gnat, Simulium spp., Sp “mosca negra”	mosca	mouche	mosca, mancha, mosca-preta	insect
+89	black armadillo (fish)	armadillo negro (pez)	tatou noir	cascudo	fish
+90	blood	sangre	sang	sangue	body part
+91	blow (wind)	soplar (viento)	souffler (vent)	soprar	verb.int
+92	blow, shoot blowgun	soplar	souffler	assoprar, soprar	verb.act
+93	blowgun	cerbatana, bodoquera, pucuna	sarbacane	zarabatana	material culture
+94	bluff, cliff, esp. at riverbank	acantilado	falaise	escarpado, acantilado, escarpamento	terrain
+95	boil (VI)	hervir	bouiller	ferver, cozer	verb.int
+96	bone	hueso	os	osso	body part
+97	botfly larva, grub, lives in animal	gusano, larva	ver, larve	gusano, chigoe, larva	insect
+98	bow	arco	arc	arco	material culture
+99	boy, male child	muchacho, niño	garçon	garoto, menino	other
+100	brain	cerebro, seso	cerveau	cérebro	body part
+101	branch	rama	branche	galho, ramo	plant
+102	brazil nut	nuez de Brasil	noix du Brésil	castanha-do-pará	plant
+103	break (VI)	romperse	se casser, se rompre, se briser	quebrar-se	verb.int
+104	break (VI) in many pieces, of sth rigid and 2D	romperse, desbaratar	se casser, se rompre, se briser	desbaratar, quebrar-se em varios pedaços	verb.int
+105	break (VI), of sth rigid and 3D such as an egg	romperse, chancarse	se casser, se rompre, se briser	triturar	verb.int
+106	break (VT)	romper, quebrar	casser, briser, rompre	quebrar	verb.act
+107	break (VT) in half, of sth rigid, completely breaking or cutting	trozar, pedacear	fendre, casser	quebrar em dois	verb.act
+108	break (VT) into many pieces, of sth brittle such as tobacco leaves, crumble	desmenuzar	déchiqueter	quebrar em varios pedaços	verb.act
+109	break (VT), of sth rigid and 3D such as an egg	chancar	casser	triturar	verb.act
+110	break (VT), of sth rigid, without complete break; as you break branches to indicate path	quebrar	casser, plier	quebrar	verb.act
+111	breast	seno	sein	seio	body part
+112	breastfeed, of baby	mamar	téter	mamar	verb.act
+113	breastfeed, of mother	amamantar	allaiter, donner le sein à, nourrir au sein	amamentar	verb.act
+114	breathe	respirar	respirer	respirar, aspirar	verb.int
+115	bring	traer	apporter, amener	trazer	verb.act
+116	brother (general)	hermano	frère	irmão	kinship term
+117	brother of father	tío paterno	oncle paternal	tio paterno	kinship
+118	brother, no age spec	hermano	frère	irmão	kinship term
+119	brother-in-law	cuñado	beau-frère	cunhado	kinship term
+120	burn, be on fire, VI, stative	quemarse	flamber, se brûler	queimar	verb.int
+121	burn, consume with fire, Vt, active	quemar	brûler, faire brûler	queimar	verb.int
+122	burst, break open, of a container or blister (VI)	reventar, estallar, p.ej una ampolla	éclater	rebentar, estourar	verb.int
+123	bury	enterrar	enterrer	enterrar	verb.act
+124	butterfly	mariposa	papillon	borboleta	insect
+125	buttocks	nalga	fesses	nádegas	body part
+126	caiman	caimán	caïman	caimão	reptile
+127	calf	pantorilla	mollet	panturrilha	body part
+128	call (VT)	llamar a	appeler	chamar	verb.act
+129	canoe	canoa	canoë	canoa	material culture
+130	capuchin monkey	mono blanco/neɡro	sapajou capucin	macaco, cebus, caicara	animal
+131	capybara	ronsoco, carpincho, capibara, chigüire	capybara, capibara	capivara	animal
+132	carry (general)	cargar, amarcar (acarrear)	porter	carregar	verb.act
+133	carry (on back)	Cargar en la espalda	porter une charge sur le dos	carregar nas costas	verb.act
+134	carry (on shoulder)	cargar en el hombro	porter sur les épaules	levar no ombro	verb.act
+135	carve out inside of canoe	tallar, labrar	tailler, sclupter	talhar, entalhar, esculpir, gravar	verb.act
+136	caterpillar, lives in plant	oruga, bayuca	chenille	lagarta	insect
+137	centipede	ciempiés (escolopendra)	mille-pattes	centopéia	insect
+138	cheek	mejilla	joue	bochecha	body part
+139	chest	pecho	poitrine	peito	body part
+140	chew hard obj, gnaw on obj, as a bone	mascar, roer	ronger	roer, mastigar	verb.act
+141	chew sth soft, chew to a mash, as manioc in making manioc beer	masticar	mâcher	mastigar, mascar	verb.act
+142	chief (leader)	jefe (cacique, apu)	chef	chefe	kinship
+143	child	niño	enfant	criança	kinship
+144	chin	mentón, barbilla	menton	queixo	body part
+145	cicada	cigarra, chicharra	cigale	cigarra	insect
+146	clear land	rozar	dégager la terre	roçar, lavrar, arar	verb.act
+147	close (VT)	cerrar	fermer	fechar, trancar	verb.act
+148	cloth	tela, corte de tela	tissu	tela, pano, tecido	material culture
+149	cloud	nube	nuage	nuvem	terrain
+150	coati	coati (achuni)	coati	coati	animal
+151	cockroach	cucaracha	cafard, blatte	barata	insect
+152	coconut, coconut-like palm sp.	coco, chambira huayo	cocotier	coco, coqueiro	plant.edible
+153	cold	frío	froid	frio	other
+154	cold snap Sp “friaje”	friaje	vague de froid	friagem	other
+155	collared peccary, Tayassu tajacu	sajino, Pecari tajacu	pécari à collier	catetos, Caititu	animal
+156	comb hair (V)	peinarse	peigner	pentear-se	verb.act
+157	come	venir	venir	vir	verb.act
+158	converse	conversar	parler, discuter, converser	conversar	verb.act
+159	cook by boiling, cause sth to boil	cocinar (hervir)	faire bouiller	ferver, cozer	verb.act
+160	cook sth by roasting	cocinar (asar)	rôtir, faire rôtir	assar	verb.act
+161	cook sth in leaves	cocinar, asar en patarashca		cozinhar em folhas	verb.act
+162	cook, general (VT)	cocinar, cocer	faire cuire, cuisiner	cozinhar, preparar	verb.act
+163	copula verb	ser	être	estar, ser	verb.stat
+164	copulate, have sex with	copular, tener relaciones sexuales, aparear	copuler	copular, ter relações sexuais	verb.act
+165	corn	maiz	maïs	milho	plant.edible
+166	cotton	algodón	coton	algodão	material culture
+167	cough	toser	tousser	tossir	verb.act
+168	count, measure	contar, medir	compter, calculer	contar, medir	verb.act
+169	cover (a hole)	cubrir (tapar)	couvrir	cobrir	verb.act
+170	cover (with horizontal surface)	cubrir	couvrir	cobrir	verb.act
+171	cover (with sth 3D), put on hat	cubrir	se couvrir	cobrir-se	verb.act
+172	crab	cangrejo	crabe	caranguejo	animal.sea
+173	crawl/walk on all fours	gatear	ramper	engatinhar	verb.act
+174	cricket	grillo	grillon	grilo	insect
+175	crock, vase, ceramic vessel w/ narrow neck	tinaja	cruche	pote	material culture
+176	cross river	cruzar el rio	traverser la rivière	cruzar/atravessar o rio	verb.act
+177	crush (VT)	aplastar	écraser	esmagar, amassar	verb.act
+178	cry	llorar	pleurer	chorar	verb.act
+179	cry of animals	cry de animales	crier	gritar	verb.act
+180	currasow	paujil, Cracinae	hocco à pierre	mutum	bird
+181	cut (general)	cortar	couper	cortar	verb.act
+182	cut, amputate	cortar, amputar	couper, amputer	cortar, amputar	verb.act
+183	cut, cut down, fell tree (trans)	cortar (tumbar, derrumbar, rebanar,)	couper, abattre	cortar, abater, derrubar	verb.act
+184	cut, divide carcass into parts	cortar, pedacear	couper, diviser en parties	cortar	verb.act
+185	cut, make cuts on the surface of obj	retalear, cortar	couper	cortar	verb.act
+186	cut, of hard object, into many pieces of similar size	cortar, partir, trozar	couper morceaux	cortar, partir	verb.act
+187	dance	bailar	danse	dançar	verb
+188	datura hallucinogen	toé	datura	estramônio	plant.medicinal
+189	daughter	hija	fille	filha	kinship
+190	daughter-in-law	nuera	belle-fille	nora	kinship
+191	dawn (VI), see the dawn	amanecer	commencer à faire jour	amanhecer	temporal adv
+192	day	dia	jour	dia	other
+193	deceive	engañar	tromper	enganar	verb.act
+194	deep	hondo	profond	profundo, fundo	verb.stat
+195	deer	venado	cerf	veado	animal
+196	defecate	defecar	déféquer	defecar	verb.act
+197	demon/evil spirit	espiritu malo, demonio	diable	demônio, espírito mau	other
+198	die	morir	mourir	morrer, falecer	verb.stat
+199	dig	cavar	creuser la terre	cavar	verb.act
+200	dirty	sucio	saleté	sujo	verb.stat
+201	disappear	desaparecer	disparaître	desaparecer	verb.stat
+202	discard	botar	jeter	jogar	verb.act
+203	do	hacer	faire	fazer	verb.act
+204	dog	perro	chien	cachorro	animal
+205	dolphin	bufeo, delfín	dauphin	golfinho	fish
+206	domesticated animal, pet	animal domesticado, mascota	animal domestique, animale familier	animal de estimação, mascote	animal
+207	door	puerta	porte	porta	material culture
+208	downriver	río abajo	en aval	rio abaixo	terrain
+209	drink	beber, tomar	boire	beber, tomar	verb.act
+210	drip (VI)	gotear	goutter, ruisseler	gotejar, pingar	verb.int
+211	drop	dejar caer	laisser tomber, faire tomber	deixar cair	verb
+212	dry (VI)	secarse	sécher	secar-se, secar (vi)	verb.stat
+213	dry (VT)	secar	secher	secar	verb.act
+214	dull	embotado, sin filo	emoussé		verb.stat
+215	dust, fine dirt	polvo	poussière	pó, poeira	other
+216	ear	oreja	oreille	orelha	body part
+217	earth, dirt, mud	tierra	sol, terre, boue	terra, solo, chão	terrain
+218	earth, extension of land	tierra	terrain	terreno	terrain
+219	eat	comer	manger	comer	verb.act
+220	egg (animal)	huevo (animal)	œuf (animal)	ovo	other
+221	egg (chicken)	huevo (gallina)	œuf (poule)	ovo	other
+222	elbow	codo	coude	cotovelo	body part
+223	embrace, hug	abrazar	embrasser	abraçar	verb.act
+224	emit noise, sound	sonar	faire du bruit, bruire	soar	verb.act
+225	enemy	enemigo	ennemi	inimigo	other
+226	enter	entrar	entrer	entrar	verb.act
+227	existential verb	haber	avoir, être	ter, haver, existir	verb.stat
+228	exit	salir	sortir	partir, sair	verb.act
+229	expand, open, e.g of a flower or canoe, VI	reventar, abrirse	s'ouvre, s'épanouir	rebentar, abrir-se	verb.int
+230	eye	ojo	œil	olho	body part
+231	face	cara	visage, figure	face, cara	body part
+232	fall	caer	tomber	cair	verb.int
+233	fan	abanico	ventilateur	abano	material culture
+234	far	lejos	loin	longe, distante	other
+235	farine	harina	farine	farinha	other
+236	fast	rápido	vite, rapide	rápido, ligeiro, depressa	verb.stat
+237	fat, grease	manteca	gras	goodura	other
+238	father	padre	père	pai	kinship
+239	father	padre	père	padre (clero)	kinship
+240	father-in-law	suegro	beau-père	sogro	kinship
+241	fear	tener miedo	avoir peur	temer	verb.stat
+242	feces	heces	matières fécales, fèces	fezes	other
+243	feed, offer food (trans)	alimentar, dar de comer	nourrir, alimenter, donner à manger à quelqu'un	alimentar, apascentar	verb.act
+244	feel hot, of person	tener calor	avoir chaud	estar com calor, estar quente	verb.stat
+245	ferment (VI)	fermentar	fermenter	fermentar	verb.int
+246	few	poco(s)	peu	pouco	other
+247	fight	pelear	se battre	lutar	verb.act
+248	fill.VT	llenar	remplir	encher	verb.act
+249	find object	encontrar, hallar	trouver	encontrar	verb.act
+250	find, meet person	reunir, encontrar, hallar, topar	rencontrer	encontrar-se	verb.act
+251	finger	dedo	doigt	dedo	body part
+252	fingernail/toenail/claw	uña, garra	ongle	unha, garra	body part
+253	finish.VI	acabar/terminar	se terminer	terminar, acabar	verb.int
+254	finish.VT	acabar, terminar (completar)	finir	terminar	verb.act
+255	fins	aleta (de pescado)	nageoire (de poisson)	barbatana	body part
+256	fire	fuego	feu	fogo	other
+257	firefly	luciérnaga	luciole	vaga-luma, pirilampo	insect
+258	firewood	leña	bois de chauffage	lenha	material culture
+259	first	primero	premier	primeiro	temporal adv
+260	fish (N)	pez	poisson	peixe	fish
+261	fish (with barbasco)	barbasquear, pescar con veneno	pêcher à la nivrée	envenenar com timbó	verb.act
+262	fish (with line)	anzuelear, pescar con anzuelo, pescar con vara	pêcher à la ligne	pescar con anzuelo, pescar con vara	verb.act
+263	fish (with net)	pescar (con red), trampear	pêcher au filet	pescar (com rede)	verb.act
+264	fish hook	anzuelo	hameçon	anzol	material culture
+265	fish poison, Sp “barbasco”	barbasco	nivrée	timbó, gordolobo, verbasco	material culture
+266	fisherman	pescador	pêcheur	pescador	other
+267	fishing net	red de pescar, tarrafa	filet de pêche	rede de pescar, armadilha	material culture
+268	fishing pole	caña de pescar	canne à pêche	vara de pescar	material culture
+269	fishing spear	arpón	harpon	arpão	material culture
+270	flame (VI)	arder	flamber, s'enflammer, prendre feu	arder	verb
+271	flesh	carne	chair, viande	carne	other
+272	float	flotar	flotter	boiar, flutuar	verb.stat
+273	flood (V)	inundar	inonder	inundar	verb.int
+274	flow, of river, of water from source	correr	couler, s'écouler, se ruisseler	escorrer, fluir	verb.int
+275	flower	flor	fleur	flor	other
+276	flute	flauta	flûte	flauta	material culture
+277	fly	volar	voler	voar	verb.act
+278	follow person, follow group	seguir, atrasar	suivre	seguir	verb.act
+279	food	comida	nourriture	comida	other
+280	foot	pie	pied	pé	body part
+281	for no good reason	por gusto	pour le plaisir	por vontade, por prazer	other
+282	forehead	frente	front	testa	bady part
+283	forest	bosque	forêt	floresta	terrain
+284	friend, companion	amigo, compañero, paisano	ami, copain, camarade	amigo	other
+285	frog, toad	rana, sapo	grenouille	sapo	animal
+286	fruit	fruta	fruit	fruta	plant.edible
+287	fruit sp, Sp “caimo”	caimo, caimito		Caimito, abio, abio-do-pará, aguaí	plant.edible
+288	fry (VT)	freír	frire	fritar	verb.act
+289	garbage	basura	ordures, poubelle	lixo	other
+290	garden	chacra	jardin	horta, jardim	terrain
+291	gather (many people, VI)	reunir	reunir	reunir	verb.int
+292	gather, collect (VT)	cosechar, juntar	recolter, ramasser	juntar	verb.act
+293	genipa, plant sp.	huito, jaɡua	genipa	jenipapo	plant
+294	germinate, sprout, of plant or feathers	brotar, crecer	pousser	brotar, crescer	verb.int
+295	get fat	engordar	grossir	engordar	verb.int
+296	get married	casarse	se marier	casar-se	verb.act
+297	giant armadillo	carachupa mama	tatou géant	tatu gigante	animal
+298	gills	agalla	branchie	guelras	body part
+299	girl, female child	chica, niña (muchacha)	fille	menina, garota, mocinha	other
+300	give	dar	donner	dar	verb.act
+301	give birth to (trans)	dar a luz a (parir)	accoucher	dar à luz	verb.act
+302	go	ir	aller	ir	verb.act
+303	go down, vertical	bajar (descender)	descendre	baixar, descer	verb.act
+304	go downriver	bajar (ir aguas abajo)	aller en aval	ir rio abaixo	verb.act
+305	go up, vertical	subir	monter	subir	verb.act
+306	go upriver	surcar (ir aguas arriba)	aller en amont	ir na contracorrente/sembem o rio	verb.act
+307	god	dios	dieu	deus	other
+308	godfather	padrino	parrain	padrinho	kinship
+309	godmother	madrina	marrain	madrinha	kinship
+310	gold	oro	or	ouro	other
+311	good	bueno	bon	bom	other
+312	gourd vessel Sp “pate”	pate	calebasse	cabaço, abóbora	other
+313	grab, close the hand around sth, telic and punctual	agarrar, arrancar	saisir, empoigner	agarrar, arrancar	verb.act
+314	grab, get, make motion to take sth	agarrar, alcanzar	aller chercher, atrapper	agarrar, alcançar	verb.act
+315	grandchild	nieto, nieta	petit-enfant	neto, neta	kinship
+316	granddaughter	nieta	petite-fille	neta	kinship
+317	grandfather	abuelo	grand-père	avô	kinship
+318	grandmother	abuela	grand-mère	avó	kinship
+319	grandson	nieto	petit-garçon	neto	kinship
+320	grass	hierba	herbe	grama	plant
+321	grasshopper	saltamontes	sauterelle	gafanhoto	insect
+322	green	verde	vert	verde	verb.stat
+323	grill, barbeque	parilla, barbacoa	gril	grelha, churrasco	material culture
+324	grind	moler	broyer	moer, triturar	verb.trans
+325	grow, of plant, NOT germinate, VI	crecer	pousser	crescer	verb.int
+326	grub, lives in palm wood	suri	larve, ver	larva	insect
+327	guava	guayaba	goyave	goiaba	other
+328	gut (animal)	destripar	étriper	estripar	body part
+329	hair	pelo, cabello	cheveu(x)	cabelo, pelo	body part
+330	hammock	hamaca	hamac	rede	material culture
+331	hand	mano	main	mão	body part
+332	hang up (VT, punctual)	colgar	pendre, suspendre, accrocher, étendre	pendurar	verb.act
+333	hard	duro	dur	duro	verb.stat
+334	have a fever	tener fiebre	avoire la fièvre	ter febre	verb.stat
+335	have diarrhea	tener diarrea	être diarrhéique	ter diarréia	verb.stat
+336	have in kinship relation	tener (pariente)	être parent	estar aparentado	verb.stat
+337	have object	tener	tenir, avoir	ter	verb.stat
+338	he	él	il	ele	pro
+339	head	cabeza	tête	cabeça	body part
+340	headwater	cabeceras	source	nascente	terrain
+341	heal (VT) with medicine	tratar con medicina	traiter, soigner	tratar	verb.act
+342	heal (VT) with tobacco smoke, etc.	curar	guerir	sarar, curar	verb.act
+343	hear	escuchar	entendre	escutar, ouvir	verb.stat
+344	heart (internal organ)	corazón	cœur	coração	body part
+345	heat	calor	chaleur	calor	other
+346	heavy	pesado	lourde	pesado	verb.stat
+347	heel	talón	talon	calcanhar	body part
+348	helicona	platanillo, ave del paraíso, pinza de langosta	heliconia	heliconia	plant
+349	help (V)	ayudar	aider	ajudar	verb.act
+350	here	acá	ici, là	aqui	other
+351	hide (VI)	esconderse	se cacher	esconder-se	verb.int
+352	hide (VT)	esconder	cacher	esconder	verb.act
+353	high, tall	alto	haut, grand	alto	other
+354	hill, mountain, upland forest	loma, altura	colline, montaigne, en hauteur	colina	terrain
+355	hit	golpear	frapper, porter un coup	bater	verb.trans
+356	hold sth in the hands	agarrar, tener en la mano	tenir, empoigner, saisir	agarrar	verb.trans
+357	hole	hueco	trou	buraco, furo	terrain
+358	honey	miel	miel	mel	other
+359	horn	cuerno (cacho)	corne	chifre, corno	other
+360	horsefly	tábano	taon	mutuca	insect
+361	hot pepper	ají	piment	pimenta	plant.edible
+362	house	casa	maison	casa	other
+363	how?	cómo?	comment?	Como?	other
+364	howler monkey	mono aullador, mono coto	singe hurleur, alouate	bugio, bugio vermelho, guariba, Alouata	animal
+365	humminɡbird (general)	picaflor, colibrí	colibri	beija-flor, colibri	bird
+366	hunting basket Sp. “capillejo”	capillejo	sac de chasseur en bandoulière	cesta caça	material culture
+367	hurt oneself, injure oneself, VI, punctual	herir(se), lastimar(se)	se blesser	machucar-se	verb.int
+368	hurt, be painful, VI, durative	doler	avoir mal à	machucar	verb.stat
+369	hurt, injure, VT	herir, lastimar	blesser	ferir, machucar	verb.act
+370	husband	marido, esposo	mari	marido	kinship
+371	I	yo	je	eu	pro
+372	if	si	si	se	other
+373	illuminate, shine light on	iluminar	éclairer	iluminar	verb.act
+374	imitate (animal cry, person)	remedar	imiter	remedar, arremedar, imitar	verb.act
+375	in	en	dans, en	em	ad.in
+376	infant	bebé, infante	bébé	bebê, criança	other
+377	Inga sp., general	guaba	pis doux	ingá	plant.edible
+378	intestines, guts	intestino (entrañas)	intestins	intestino	body part
+379	island	isla	isle	ilha	terrain
+380	issue light, shine light (VI)	alumbrar	eclairer	iluminar, brilhar	verb.int
+381	itch	dar comezon	démanger, gratter	coceira	verb.stat
+382	jaguar	tigre, jaguar	jaguar	onça	animal
+383	jaw	mandíbula	mâchoire	mandíbula	body part
+384	jump	saltar (brincar)	sauter	saltar	verb.act
+385	kick	patear/dar patadas	frapper avec le pied	chutar	verb.act
+386	kidney	riñon	rein	rim	body part
+387	kill	matar	tuer	matar	verb.act
+388	kinɡfisher	martin pescador	martin-pêcheur	martim-pescador	bird
+389	knee	rodilla	genou	joelho	body part
+390	knife	cuchillo	couteau	faca	material culture
+391	know	saber	savoir	saber	verb.stat
+392	lake	lago, cocha	lac	lago, Cocha	terrain
+393	land snail (edible)	caracol	escargot	caracol	mollusk
+394	later	más tarde	plus tard	mais tarde	temporal adv
+395	laugh	reír	rire	riso	verb.act
+396	lay down (tr.)	poner/colocar	mettre	colocar	verb.act
+397	lazy	perezoso, flojo	paresseux	preguiçoso	verb.stat
+398	leaf	hoja	feuille	folha	plant
+399	leafcutter ant	curhuince	fourmis coupe-feuille	formiga-cortadeira, formiga-carregadeira	insect
+400	left	izquierda	gauche	esquerda	other
+401	leg	pierna	jambe	perna	body part
+402	letʼs ɡo	vamos	on y vas, allons-y	vamos, deixei?	verb.hort
+403	liana, general	bejuco, soga del monte	liane	liana, cipó	plant
+404	lice-infested	sucio, piojoso	sale, pouilleux	piolhento	verb.stat
+405	lick	lamer	lécher	lamber	verb.act
+406	lie	mentir	mentir	mentir	verb
+407	life	vida	vie	vida	other
+408	lift (trans)	levantar (alzar)	soulever	levantar, erguer	verb.act
+409	light a fire (VT)	encender	allumer un feu	acender	verb.act
+410	lightning (N)	relámpago	éclair, foudre	relâmpago	other
+411	limp	cojear	boiter	mancar	verb.act
+412	live	vivir	vivre	viver	verb.stat
+413	liver	higado	foie	fígado	body part
+414	lizard, generic	lagartija	lézard	lagarto	animal
+415	long	largo	long	comprido, longo	other
+416	look for	buscar	chercher	pesquisar	verb.act
+417	lose object (VT)	perder	perdre	perder	verb
+418	louse	piojo	pou	piolho	insect
+419	love	amar	aimer	amar	verb.stat
+420	lung	pulmón	poumon	pulmão	body part
+421	macaw	guacamayo	ara macoa	arara	bird
+422	make dam	hacer presa	faire un barrage	fazer represa	verb
+423	make wet	mojar	mouiller	molhar	verb
+424	make, manufacture, prepare	hacer, confectionar	faire, fabriquer, confectionnner, préparer	fazer, construir	verb.act
+425	man	hombre	homme	homem	other
+426	manioc beer	masato (chicha)	bière au manioc	cauim, cassiri, caxiri	other
+427	manioc bread	casabe	pain au manioc	beijú	other
+428	manioc juice	jugo de mandioca	jus de manioc	água da mandioca	other
+429	manioc press	matafrio, sebucan, tipiti	presse à manioc	tipiti	material culture
+430	manioc, bitter	yuca brava	manioc amer	mandioca	plant.edible
+431	manioc, sweet	yuca dulce	manioc doux	mandioca doce?, macaxeira	plant.edible
+432	many, ANIM	mucho	beaucoup de, plusieurs	muito	other
+433	many, INAM	mucho	beaucoup de, plusieurs	muito	other
+434	maternal uncle	tio, hermano de madre	oncle, frère de la mère	tio, irmão do mãe	kinship
+435	meat	carne	viande	carne	other
+436	medicine	remedio	médecin	remédio	other
+437	menstruate	menstruar	avoir ses règles	menstruar	verb
+438	millipede	ciempiés, milpiés	mille-pattes	centopéias, milípedes	animal
+439	mix, mix sth with sth else, NOT stir	mezclar	mélanger, remuer	misturar	verb
+440	mix, stir liquid, with spoon or other utensil	mezclar	mélanger	misturar	verb
+441	mock, make fun of, laugh at	burlar(se de)	se moquer de quelqu'un	zombar, fazer uma piada sobre, ridicularizar	verb
+442	monkey	mono	singe	macaco	animal
+443	moon	luna	lune	lua	other
+444	morning	mañana	matin	amanhã	temporal adv
+445	mosquito	zancudo	moustique	mosquito, pernilongo	insect
+446	mother	madre	mère	mãe	kinship
+447	mother-in-law	suegra	belle-mère	sogra	kinship
+448	mouth	boca	bouche	boca	body part
+449	much	mucho	beaucoup	muito	other
+450	music	música	musique	música	other
+451	naked	desnudo	dénudé, nu	nu	other
+452	name	nombre	nom	nome	other
+453	narrow	estrecho, angusto	étroit	estreito	other
+454	near	cerca	près de, proche	próximo	other
+455	neck	cuello	cou	pescoço	body part
+456	necklace/neck adornment	collar	coller	colar	material culture
+457	negative existential	no haber	n'être pas, n'avoir pas	não haver	verb.stat
+458	nephew	sobrino	neveu	sobrinho	kinship
+459	nettle	ortiga, ishango	ortie	urtiga	plant
+460	new	nuevo	nouveau	novo	other
+461	niece	sobrina	nièce	sobrinha	kinship
+462	night	noche	nuit	noite	temporal adv
+463	non-indigenous person, white person	persona blanca, blanco, extranjero, foráneo	personne blanche, étranger	branco, estrangeiro, pessoa estrangeira	other
+464	nose	nariz	nez	nariz	body part
+465	not	no	ne/pas	não	other
+466	not know / I.don't.know	no saber	ne savoir pas	não saber	verb.stat
+467	nothing	nada	rien	nada	other
+468	now, today	hoy, ahora	aujourd'hui, maintenant		other
+469	obtain	conseguir, obtener	obtenir	obter, conseguir	verb.act
+470	old	viejo	vieux	velho	other
+471	older brother	hermano/a mayor	frère/sœur ainé(e)	irmão / irmã mais	kinship
+472	older sibling, opposite sex	hermano/a mayor	frère/sœur ainé(e)	irmão / irmã mais	kinship
+473	older sister	hermana mayor	grande soeur	irmã mais velha	kinship
+474	one	uno	un	um	num
+475	open cap, open sth perpendicular to rest of surface, VT	abrir	ouvrir	abrir	verb
+476	open door, open sth parallel to rest of surface, VT	abrir	ouvrir	abrir	verb
+477	open the mouth	abrir la boca, bostezar	ouvrir la bouche	abrir a boca, bocejar	verb
+478	open, make expand, e.g. of a canoe, VT	abrir	faire ouvrir	abrir	verb
+479	opossum	zarigueya	opossum	gambá	animal
+480	order, command	ordenar, mandar (a una persona)	commander, ordonner	mandar, comandar	verb
+481	orphan	huérfano	orphelin	órfão	kinship
+482	other	otro	autre	outro	other
+483	other side of river	otro lado	autre côté de la rivière	outro lado	other
+484	outside	afuera	dehors	fora	other
+485	paca	majás, Cuniculus	paca	paca	animal
+486	paddle	remo	pagaie	remo	other
+487	paddle (V)	bogar, remar	pagayer	remar	verb
+488	paint (V)	pintar	peintre	pintar	verb
+489	painted (spotted)	pintado	peint	pintado, manchado	other
+490	palm sp.	(h)ungurahui, milpesos	palmier	patauá	plant
+491	palm sp. Astrocaryum chambira	chambira	palmier astrocaryum	tucuma	plant
+492	palm sp. Mauritia flexuosa, Sp “aguaje”	aguaje, canangucha	palmier Mauritia flexuoso	buriti, miriti	plant
+493	papaya	papaya	papaye	mamão	other
+494	parallel cousin (female)	prima	cousine	prima	kinship
+495	parallel cousin (male)	primo	cousin	primo	kinship
+496	parrot, Amazona spp., generic or particular	loro	perroquet	papagaio	bird
+497	pass (VI)	pasar	passer	passar	verb.intr.
+498	paternal aunt	tia, hermana del padre	tante, sœur du père	tia, irmã do pai	kinship
+499	path	camino	chemin	trilha	terrain
+500	peach palm, Bactris gasipaes	pupuna, chontaduro, pijuayo	palmier Bactris gasipaes	pupunha	plant
+501	peck	picotear	picorer	bicar	verb
+502	peel fruit, skin animal, remove skin/peel that closely adheres to sth	pelar	peler	descascar	verb
+503	peel manioc, peel sth with easily removed skin	pelar	peler	descascar	verb
+504	penis	pene	penis	pênis	body part
+505	people	gente	gens	pessoas	other
+506	pineapple	piña	ananas	abacaxi	plant.edible
+507	piranha	piraña, paña, palometa	piranha	piranha	fish
+508	pitch	brea	brai	arremesso, breu, piche, betume	other
+509	placenta	placenta	placenta	placenta	body part
+510	plant (seed)	sembrar semilla	semer	semear, cultivar, plantar	verb
+511	plantain	plátano	banane plantain	banana-da-terra, tachagem	plant.edible
+512	play	jugar	jouer	jogar	verb
+513	pleiades	pléyades	pléiades	plêiades	other
+514	point (finger)	señalar con el dedo	indiquer, montrer du doigt	apontar o dedo	verb
+515	poison, for weapons (N)	curare, veneno	poison	veneno	other
+516	port	puerto	port	porto	other
+517	pot	olla	pot	panela, caçarola	other
+518	pour liquid from vessel, empty liquid	vaciar, derramar	vider	derramar	verb
+519	powder	polvo	poudre	poeira	other
+520	prow	proa	proue	proa	other
+521	pull	jalar	tirer	puxar	verb
+522	purple	púrpura	pourpre	roxo, púrpura	other
+523	push	empujar	pousser	empurrar	verb
+524	put down	poner (colocar)	placer	pôr, colocar	verb
+525	put on garment (general)	ponerse (ropa)	mettre, s'habiller	vestir-se	verb.refl.
+526	raft	balsa	radeau	balsa, jangada	other
+527	rain	llover	pleuvoir	chover	verb
+528	rainbow	arco iris	arc-en-ciel	arco-íris	other
+529	raise pet/domestic animal	criar	élever	criar	verb
+530	rat, generic	ratón	rat	rato	animal
+531	rattle, maraca	maraca, sonaja, sonajero	maracas	chocalho, maracá	material culture
+532	raw	crudo	cru	cru, bruto	other
+533	reach goal (VT)	alcanzar	atteindre	alcançar	verb
+534	red	rojo	rouge	vermelho	other
+535	reply	responder	répondre	responder	verb
+536	resin, sap	resina	résine, sève	resina, seiva	other
+537	rest (VI)	descansar	se reposer	descansar	verb.intr.
+538	return, give sth back to its owner	devolver	rendre	devolver	verb
+539	return, go back to point of origin	volver	retourner	retornar, voltar	verb
+540	rib	costilla	côte	costela	body part
+541	rich	rico	riche	rico	other
+542	right	correcto	correct, vrai	correto	other
+543	right (side)	derecho	droite	direito	other
+544	river	río	rivière	rio	other
+545	river otter	nutria, lobo del rio	loutre de rivière	ratão-do-banhado, nútria, caxingui	animal
+546	roll, make obj revolve on the ground	hacer rodar, revolcar	rouler, faire rouler	rolar, jogar	verb
+547	root	raiz	racine	raiz	plant
+548	rope, string	cuerda	corde	corda	material culture
+549	rot	pudrirse	pourrir	apodrecer	verb
+550	rub obj down with sth, smear sth across obj, as grease or paint	frotar, untar	étaler, frotter	esfregar	verb
+551	rub obj with obj	frotar	frotter	esfregar	verb
+552	run	correr	courir	correr	verb
+553	salt	sal	sel	sal	other
+554	sand	arena	sable	areia	other
+555	sandfly	manta blanca	phlébotome	maruim, pium	animal
+556	savannah	sabana	savane	savana	other
+557	say	decir	dire	dizer	verb
+558	scales	escama	écaillle	escama	body part
+559	scare (VT)	asustar (espantar)	faire peur, craindre	assustar-se	verb.trans.
+560	scold	regañar	gronder	ralhar	verb
+561	scorpion	alacrán	scorpion	escorpião	insect
+562	scrape (sth off of obj)	raspar	gratter, érafler	raspar	verb
+563	scratch (itch)	raspar, arañar	gratter	raspar, coçar	verb
+564	scratch ground, scrape ground, make shallow depression/hole (as chickens)	escarbar	gratter, fouiller	arranhar	
+565	sedge	piripiri	jonc	junça	other
+566	see	ver	voir	ver	verb
+567	seed	semilla	graine	semente	other
+568	separate oneself from group (VI), become separate, of obj (VI)	separarse	se séparer	separar-se	verb.refl.
+569	separate sth from group (VT), confiscate obj (VT)	quitar	séparer	remover	verb
+570	shadow, shade	sombra	ombre, ombrage	sombra	other
+571	sharpen (VT)	afilar	aiguiser, affûter	aguçar	verb
+572	shell, hard shell as of turtle	cascara	coquille	concha, capa, casca	other
+573	shin	canilla	tibia	canela, tíbia	body part
+574	shoot arrow	disparar, flechar, pucunear	tirer à l'arc	atirar, atirar flechas, pucunear	verb
+575	shore, bank	orilla (banda, margen)	rivage, rive	costa, margem (ribanceira)	other
+576	short	corto, bajo	court	curto, baixo	other
+577	shoulder	hombro	épaule	ombro	body part
+578	shout, yell	gritar	crier, hurler	gritar	verb
+579	sibling, general	hermano/a, general	frère ou sœur	irmão / irmã, Geral	kinship
+580	side	lado	côté	lado	other
+581	sieve (strainer)	cernidor, colador	passoire	peneira, crivo	material culture
+582	sing	cantar	chanter	cantar	verb
+583	singe hair off of	chamuscar	roussir, cramer, brûler légèrement	chamuscar	verb
+584	sink (VI)	hundirse, sumir	couler, sombrer	afundar	verb.intr.
+585	sister (general)	hermana	sœur	irmã	kinship
+586	sister of mother	tía materna	tante maternale	tia materna	kinship
+587	sister, no age spec	hermana	sœur	irmã	kinship
+588	sister-in-law	cuñada	belle-sœur	cunhada	kinshio
+589	sit	sentar	s'asseoir	sentar-se	verb.refl.
+590	skin	piel	peau	pele	other
+591	sky	cielo	ciel	céu	other
+592	sleep	dormir	dormir	dormir	verb
+593	sloth, general	pelejo, perezoso	paresseux	preguiça	animal
+594	smell (VI, issue a smell)	oler, tener olor	sentir	cheirar	verb
+595	smell (VT, perceive a smell)	oler, olfatear	sentir	farejar	verb
+596	smoke (consume sth by smoking)	fumar (tabaco)	fumer	fumar (tabaco)	verb
+597	smoke (N), steam, fog, mist	humo, vapor, neblina	fumée, vapeur, brouillard, brume	fumaça, vapor, névoa	other
+598	smoke food	ahumar	fumer	defumar	verb
+599	snake	culebra, víbora	serpent	cobra	animal
+600	sneeze	estornudar	éternuer	espirrar	verb
+601	soft	suave	doux	macio	other
+602	son	hijo	fils	filho	kinship
+603	son-in-law	yerno	beau-fils	genro	kinship
+604	speak	hablar	parler	falar	verb
+605	spear	lanza	lance	lança	material culture
+606	spider	araña	araignée	aranha	animal
+607	spider monkey	maquizapa	singe-araignée	macaco-aranha, coatá	animal
+608	spiderweb	teleraña	toile d'araignée	teia	other
+609	spine	columna vertebral, espinazo	colonne vertébrale	espinha, espinha dorsal	body part
+610	spirit, ghost, of dead person	alma	esprit, fantôm, revenant, spectre	espírito de pessoa morta	other
+611	spirit, soul, of live person/animal	alma	âme, esprit	espirito, alma de pessoa viva	other
+612	spit (N)	saliva	salive	saliva	body part
+613	spit (V)	escupir	cracher	cuspir	verb
+614	split (VI), develop crack and separate down crack, of rigid obj such as plate or wood	partir(se)	se fendre, se fêler	partir-se	verb.intr.
+615	split (VT), cut or break down central axis and force apart, e.g. split a log or open belly of carcass	rajar, partir (leña)	fissurer, fêler	partir	verb
+616	squeeze (VT)	apretar	presser, serrer	apertar	verb
+617	squeeze to juice, express a liquid (VT)	exprimir	presser	apertar	verb
+618	squirrel	ardilla	écureuil	esquilo	animal
+619	squirrel monkey, saimiri	(mono) fraile, frailecito, Saimiri	singe-écureuil, Saïmiri	macaco-de-cheiro	animal
+620	stab	picar, puñalar	piquer	apunhalar	verb
+621	star	estrella	étoile	estrela	other
+622	steal	robar	voler	roubar	verb
+623	stick	palo, palito	bâton	vara	other
+624	stick sth to surface (VT)	apegar	coller	afixar	verb
+625	stick to (VI)	apegarse	coller, s'attacher	afixar	verb
+626	stinɡray	raya	raie	arraia	animal
+627	stir, twirl stick by rubbing palms together, as in starting fire or stirring/whipping a liquid	batir, rodar utensilio	battre, fouetter	girar, rodar	verb
+628	stone	piedra	pierre	pedra	other
+629	stop (VI)	parar, cesar	s'arrêter	parar	verb
+630	straight (of path)	derecho	droit	direito	other
+631	strain liquid (VT)	colar (cernir)	filtrer	coar, filtrar	verb
+632	stream	quebrada, arroyo (riachuelo)	ruisseau	angra, córrego	other
+633	stretch out, spread out, of 2D object, VT	tender	étendre	alongar, esticar	verb
+634	stretch, extend body part (VT)	estirar	étirer	espichar-se, esticar-se	verb
+635	suck	chupar	sucer	chupar	verb
+636	sugar cane	caña de azucar	canne à sucre	cana de açúcar	other
+637	sun	sol	soleil	sol	other
+638	swallow	tragar	avaler	engolir	verb
+639	sweat	sudar	transpirer	suor	other
+640	sweep	barrer	balayer	varrer	verb
+641	sweet potato	camote	patate douce	batata doce	other
+642	swell	hincharse	gonfler, enfler	inchar	verb
+643	swim	nadar	nager	nadar	verb
+644	tail	rabo, cola	queue	cauda, rabo	other
+645	take (VT)	llevar	prendre	transportar, levar	verb
+646	tamandua	shihui, oso melero, oso hormiguero Amazónico	tamandua	tamanduá	animal
+647	tamarin, emperor	pichico	tamarin empereur	pichico, sagui-imperador	animal
+648	tambo, temporary palm shelter	tambo		abrigo, tambo	other
+649	tapir	sachavaca, danta	tapir	tapir, anta	other
+650	tayra	humayro, irará, eirá, tayra, cabeza de mate, cabeza de viejo, sanjool, hurón mayor, eira barbara, manco	tayra, eira barbara	irara	animal
+651	teach	enseñar	apprendre, enseigner	ensinar	verb
+652	tear, break flexible obj, VT	desgarrar, rasgar, romper	déchirer	rasgar, romper	verb
+653	tear, break, of sth flexible, VI	romperse (algo flexible)	se déchirer	rasgar-se, romper-se	verb
+654	tell, tell story, warn, teach	contar, avisar	raconter, prévenir, enseigner	contar, avisar	verb
+655	termite	comejen	termite	cupim	insect
+656	testicles	testículos	testicules	testículos	body part
+657	that	ese	ce, cela, ça	que	other
+658	thatch a roof	techar	couvrir de chaume	telhar	verb
+659	thatch palm	irapay, “hoja del techo”	chaume	telhado de colmo, sapé, palha de palmeira	plant
+660	there	allá	là, là-bas	lá, ali, aí	other
+661	they	ellos	ils, elles	eles	pro
+662	thick (dimension)	grueso	épais	grosso	other
+663	thick, pasty, of liquid	espeso	épais	espesso	other
+664	thigh	muslo	cuisse	coxa	body part
+665	think	pensar	penser	pensar	verb.stat
+666	this	este	ce, ceci, ça	este	other
+667	thorn	espina	épine	espinho	body part
+668	three	tres	trois	três	num
+669	throw (sth through the air, to another person, NOT throw away)	tirar, echar	jeter, lancer	atirar	verb
+670	thunder (V)	tronar	tonner, gronder	troar, trovejar	verb
+671	thunder spirit (N)	trueno	tonnerre	trovão	other
+672	tick	garrapata	tique	carrapato	animal
+673	tie (general)	amarrar, atar	lier	atar, amarrar, laçar	verb
+674	tie cord to itself, make loop	enrollar soga	enrouler	atar	verb
+675	tie sth up (not w loop), bind sth with cord	amarrar	amarrer	amarrar	verb
+676	to, for the benefit of, for	a, en beneficio de, para	pour	para o benefício de, por, para	ad.ben
+677	tobacco	tabaco	tabac	tabaco, fumo	other
+678	toe	dedo de pie	orteille	dedo do pé	body part
+679	toenail	uña de pie	ongle de pied	garra pé	body part
+680	tomorrow	mañana	demain	amanhã	temporal adv
+681	tongue	lengua	langue	língua	body part
+682	tooth	diente	tooth	dente	body part
+683	top	cima	haut	topo	other
+684	toucan	tucán	toucan	tucano	bird
+685	track, of an animal	pista	suivre à la trace	pista	other
+686	tree	árbol, palo	arbre	árvore	plant
+687	trumpeter	trompetero	agami trompette	jacamim	other
+688	trunk (of tree)	tronco	écorce	tronco	other
+689	tuber sp. “sachapapa”	sachapapa	igname	inhame	other
+690	turn (general), turn around in place exactly once (VI)	voltearse	se retourner	virar-se	verb
+691	turn sth around, overturn sth once (VT)	voltear	renverser	virar	verb
+692	turtle, aquatic, general	tortuga (acuatica)	tortue de mer	tartaruga (aquático)	animal
+693	twist (VT)	torcer (chambira, hilos, sogas), trenzar	tordre	torcer, distorcer	verb
+694	twist, revolve (VI) until twisted	torcerse	se tordre	torcer, distorcer	verb
+695	two	dos	deux	dois	num
+696	unripe	verde (fruta)	vert, pas mûr	verde (fruta)	other
+697	untie (VT)	desatar	detacher, defaire	desatar, desamarrar	verb
+698	upriver	río arriba	en amont	rio acima	terrain
+699	urinate	orinar	uriner	urinar	verb
+700	vagina	vagina	vagin	vagina	body part
+701	vein, artery	vena, arteria	veine, artère	veia, artéria	body part
+702	village	pueblo	village	cidade, aldeia, vila	other
+703	vomit	vomitar	vomir	vômito	other
+704	vulture	buitre, gallinazo	vautour	abutre, buzzard	animal
+705	waist/hips	cinturon, cadera	taille, hanche	cinto, quadril	body part
+706	wait for	esperar	attendre	esperar	verb
+707	wake up, VI	despertarse	se réveiller	acordar	verb
+708	wake up, VT	despertar	reveiller	despertar	verb
+709	walk	caminar	marcher, se promener	andar, caminhar	verb
+710	wall, fence	pared, cerca	mur, clôture	cerca, parede	other
+711	want	querer	vouloir, avoir envie de	querer	verb
+712	war club	porra, macana	macana	macana	other
+713	war, army	guerra	guerra	guerra	other
+714	wash	lavar	laver	lavar	verb
+715	wasp, general	avispa	guêpe	vespa	animal
+716	water	agua	eau	água	other
+717	we (excl)	nosotros.excl	nous	nosotros.excl	pro
+718	we (incl)	nosotros.incl	nous	nosso	pro
+719	weave (leaves into basket)	tejer hoja	tresser	trançar, entrelaçar	verb
+720	weave (leaves into thatch)	tejer crizneja	tresser	trançar, entrelaçar, (telhado) cobrir com palha	verb
+721	weave (thread or cord)	tejer, trenzar	tisser	trançar	verb
+722	weed (V)	cultivar, desherbar	désherber	cultivar, capinar	verb
+723	wet	mojado	mouillé	molhado	other
+724	what?	qué?	quoi?	que	other
+725	when?	cuándo?	quand?	quando?	other
+726	where?	dónde?	où?	Onde?	other
+727	whisper	susurrar	chuchotter, murmurer	sussurro	other
+728	whistle	silbar	siffler	assobiar	verb
+729	white-lipped.peccary	huangana, puerco	pécari à bouche blanche	queixada, taiaçu	animal
+730	who?	quién?	qui	Quem?	other
+731	wife	esposa	femme	esposa	kinship
+732	wild cane (Sagittatum sp.)	caña brava, tañil	canne flèche	cana-brava	other
+733	wind	viento	vent	vento	other
+734	wing	ala	aile	asa	body part
+735	wipe	borrar, limpiar frotando	essuyer	limpar	verb
+736	witch, shaman	brujo	sorcier, sorcière, chaman	feiticeiro	other
+737	with, comitative	con (persona)	avec	com (pessoa)	ad.com
+738	woman	mujer	femme	mulher	other
+739	woolly monkey	(mono) choro, churuco, mono barrigudo	lagotriche, singe laineux	macaco barrigudo	animal
+740	work (VI)	trabajar	travailler	trabalhar	verb
+741	world	mundo	monde	mundo	other
+742	worm, earthworm, NOT parasitic	lombriz, gusano	ver	minhoca	insect
+743	worm, parasitic, internal	gusano, lombriz	vers intestinaux	verme	insect
+744	wound (N)	herida	blessure	ferida	other
+745	wrap (VT)	envolver	envelopper	envolver	verb
+746	wrist	muñeca	poignet	pulso, munheca	body part
+747	yes	sí	oui	sim	other
+748	you.pl	ustedes	vous	vocês	pro
+749	you.sg	tú	tu	você	pro
+750	young man	joven	jeune homme	jovem	other
+751	young woman	muchacha, chica	jeunne femme, mademoiselle	menina	other
+752	younger brother	hermano menor	frère cadet	Irmão mais novo	kinship
+753	younger sibling, opposite sex	hermano/a menor	frère/sœur cadet(te)	irmão / a menor	kinship
+754	younger sibling, same sex	hermano/a menor	frère/sœur cadet(te)	irmão / a menor	kinship
+755	younger sister	hermana menor	sœur cadette	irmã mais nova	kinship

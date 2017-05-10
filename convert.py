@@ -64,14 +64,28 @@ def parse_thiago(string):
     return dsets
 
 
-csv = csv2list('arawakan.csv', strip_lines=False, comment='>>>')
-header = csv[0][1:]
-D = {0: ['doculect', 'concept', 'value_in_source', 'concept_spanish', 'value',
+csv = csv2list('raw/compiled_750.tsv', strip_lines=False, comment='>>>')
+header = csv[0][5:]
+D = {0: [
+    'doculect', 
+    'concept', 
+    'concept_spanish',
+    'concept_french',
+    'concept_portuguese',
+    'semantic_field',
+    'value_in_source', 
+    'value',
         'form1', 'form2', 'form', 'segments', 'source']}
 idx = 1
+concepts = []
 for i, line in enumerate(csv[1:]):
     concept = line[0]
-    rest = line[1:]
+    spanish = line[1]
+    french = line[2]
+    port = line[3]
+    rest = line[5:]
+    semfield = line[4]
+    concepts += [(str(i+1), concept, spanish, french, port, semfield)]
     for language, cell in zip(header, rest):
         print(cell)
         datapoints = parse_thiago(cell)
@@ -82,19 +96,34 @@ for i, line in enumerate(csv[1:]):
                 segments = ' '.join(ipa2tokens(form.replace(' ','_'), 
                         merge_vowels=False,
                         semi_diacritics = 'hsʃzʒ'))
-                new_line = [language, concept, cell, data.get('spanish', ''), 
+                new_line = [language, concept, 
+                        spanish,
+                        french,
+                        port,
+                        semfield,
+                        cell,  
                         data.get('value', ''), data.get('form', ''),
                         data.get('phonemic', ''), form, segments, data.get('source')]
                 D[idx] = [str(x) for x in new_line]
                 idx += 1
 wl = Wordlist(D)
 lex = LexStat(wl, segments='segments')
-lex.get_scorer()
-lex.cluster(method='lexstat', threshold=0.6, ref='cogid')
-lex.output('tsv', filename='arawakan', ignore='all', prettify=False,
-        subset=True, columns=['doculect', 'concept', 'value_in_source', 'concept_spanish', 'value',
+#lex.get_scorer()
+lex.cluster(method='sca', threshold=0.45, ref='cogid')
+lex.output('tsv', filename='wordlist-750', ignore='all', prettify=False,
+        subset=True, cols=['doculect', 'concept', 
+            'concept_spanish',
+            'concept_french',
+            'concept_portuguese',
+            'semantic_field',
+            'value_in_source', 'value',
         'form1', 'form2', 'form', 'segments', 'source', 'cogid'])
 
+
+with open('concepts.tsv', 'w') as f:
+    f.write('NUMBER\tENGLISH\tSPANISH\tFRENCH\tPORTUGUESE\tSEMANTIC_FIELD\n')
+    for line in concepts:
+        f.write('\t'.join(line)+'\n')
             
 
 
