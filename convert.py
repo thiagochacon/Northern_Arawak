@@ -78,12 +78,14 @@ D = {0: [
         'form1', 'form2', 'form', 'segments', 'source']}
 idx = 1
 concepts = []
+cmaps = {}
 for i, line in enumerate(csv[1:]):
     concept = line[0]
     spanish = line[1]
     french = line[2]
     port = line[3]
     rest = line[5:]
+    cmaps[port] = concept
     semfield = line[4]
     concepts += [(str(i+1), concept, spanish, french, port, semfield)]
     for language, cell in zip(header, rest):
@@ -106,6 +108,36 @@ for i, line in enumerate(csv[1:]):
                         data.get('phonemic', ''), form, segments, data.get('source')]
                 D[idx] = [str(x) for x in new_line]
                 idx += 1
+
+
+csv = csv2list('raw/Baniwa_only_750', strip_lines=False)
+for i, line in enumerate(csv[1:]):
+    port = line[0]
+    rest = [line[1]]
+    concept = cmaps.get(port, '?')
+    language = 'Baniwa'
+    for cell in rest:
+        print(cell)
+        datapoints = parse_thiago(cell)
+        for data in [x for x in datapoints if x]:
+            form = data.get('phonemic', 
+                    data.get('form', data.get('value', '')))
+            if form:
+                segments = ' '.join(ipa2tokens(form.replace(' ','_'), 
+                        merge_vowels=False,
+                        semi_diacritics = 'hsʃzʒ'))
+                new_line = [language, concept, 
+                        '',
+                        '',
+                        port,
+                        '',
+                        cell,  
+                        data.get('value', ''), data.get('form', ''),
+                        data.get('phonemic', ''), form, segments, data.get('source')]
+                D[idx] = [str(x) for x in new_line]
+                idx += 1
+
+
 wl = Wordlist(D)
 lex = LexStat(wl, segments='segments')
 #lex.get_scorer()
