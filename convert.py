@@ -139,6 +139,33 @@ for i, line in enumerate(csv[1:]):
 
 
 wl = Wordlist(D)
+
+counts = defaultdict(lambda: defaultdict(list))
+problematic = {}
+for k, val, lang in iter_rows(wl, 'form', 'doculect'):
+    try:
+        tks = ipa2tokens(val, semi_diacritics='shzʃʒʂʐɕʑ', merge_vowels=False)
+        cls = tokens2class(tks, 'dolgo')
+        for t, c in zip(tks, cls):
+            counts[lang][t, c] += [val]
+        problematic[k] = ''
+    except: 
+        problematic[k] = '!'
+
+for lang, vals in counts.items():
+    with open(lang+'.orthography.tsv', 'w') as f:
+        f.write('Grapheme\tIPA\tFREQUENCY\tEXAMPLE\n')
+        for (t, c), lst in sorted(counts[lang].items(), key=lambda x: len(x[1]),
+                reverse=True):
+            if c != '0':
+                cpart = t
+            else:
+                cpart = '<?>'
+            print(t, c, lst)
+            f.write('{0}\t{1}\t{2}\t{3}\n'.format(
+                t, cpart, len(lst), lst[0]))
+
+wl.add_entries('problematic', problematic, lambda x: x)
 lex = LexStat(wl, segments='segments')
 #lex.get_scorer()
 lex.cluster(method='sca', threshold=0.45, ref='cogid')
@@ -149,7 +176,7 @@ lex.output('tsv', filename='wordlist-750', ignore='all', prettify=False,
             'concept_portuguese',
             'semantic_field',
             'value_in_source', 'value',
-        'form1', 'form2', 'form', 'segments', 'source', 'cogid'])
+        'form1', 'form2', 'form', 'segments', 'source', 'cogid', 'problematic'])
 
 
 with open('concepts.tsv', 'w') as f:
